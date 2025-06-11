@@ -18,8 +18,6 @@ Before running the tests, ensure you have:
   pip install requests pytest 
 
 ## Execute all test cases via:
-
-    ```sh 
     pytest -v test_airalo_api.py
 
 ## ** Test Breakdown **
